@@ -1,0 +1,26 @@
+body {
+  position: relative;
+  padding: 0px;
+  margin: 20px auto auto auto;
+  display: table;
+  background-color: rgb(240, 255, 254);
+}
+h1, p {
+  text-align: center;
+}
+p {
+  font-size: 20px;
+}
+.tooltip {
+  position: absolute;
+  text-align: center;
+  width: 200px;
+  height: 110px;
+  padding: 7px;
+  font: 15px sans-serif;
+  color: #c5e3fd;
+  background: #030303;
+  border: 25px;
+  border-radius: 12px;
+  line-height: 18px;
+}
